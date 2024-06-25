@@ -8,12 +8,9 @@
 
 .[![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
    
-<h2>:thought_balloon: Quote of the day</h2>
-<details open>
-    <summary>See quote</summary>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-</details>
+
 
 
 <!--
