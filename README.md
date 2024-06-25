@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  <div align="center" ><img width="100%" alt="Hello World" src="wp.png"></div>
+  <div align="center" ><img width="100%" alt="Hello World" src="relative/path/in/repository/to/wp.png"></div>
 
 [![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
 <!--
