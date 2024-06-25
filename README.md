@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  <div align="center" ><img width="100%" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png"></div>
+  <div align="center" ><img width="50%" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png"></div>
 
 [![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
 <!--
