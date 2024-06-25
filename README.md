@@ -1,4 +1,3 @@
-## Hi there 👋
 
   <div align="center" > <img width="1000px" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png"></div>
 
@@ -12,9 +11,7 @@
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
     <summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </details>
 
