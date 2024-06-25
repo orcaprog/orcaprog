@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+  <div align="center" ><img width="100%" alt="Hello World" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 [![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
 <!--
