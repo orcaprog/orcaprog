@@ -6,6 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=29&pause=1000&color=09A2F7&random=false&width=700&height=200&lines=Hi+there+%F0%9F%91%8B;I'm+Ayoub;Software+Engineer+Student;Aspiring+Full+Stack+Developer;Orca+Lover+%3A)" alt="Typing SVG" />
   </a>
 
+  <h2>Hi, I'm Ayoub 👋</h2>
+  <p>
+    I'm a web developer and a software engineer in training, passionate about building efficient and user-friendly applications. Always eager to learn and take on new challenges in the tech world!
+  </p>
+
   <br>
 
   [![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
