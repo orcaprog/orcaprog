@@ -2,9 +2,7 @@
 
   <img width="1000px" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=29&pause=1000&color=09A2F7&random=false&width=700&height=200&lines=Hi+there+%F0%9F%91%8B;I'm+Ayoub;Software+Engineer+Student;Aspiring+Full+Stack+Developer;Orca+Lover+%3A)" alt="Typing SVG" />
-  </a>
+ 
 
   <h2>Hi, I'm Ayoub 👋</h2>
   <p>
