@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #251C31; color: white; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #251C31 !important; color: white; padding: 20px; border-radius: 10px;">
 
   <img width="1000px" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/hi%20i%E2%80%99m%20ayoub.png">
 
