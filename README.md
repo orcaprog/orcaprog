@@ -4,7 +4,7 @@
 
   <h2>Hi, I'm Ayoub 👋</h2>
   <p>
-    I'm a web developer and a software engineer in training, passionate about building efficient and user-friendly applications. Always eager to learn and take on new challenges in the tech world!
+    I'm a web developer and a software devloper in training, passionate about building efficient and user-friendly applications. Always eager to learn and take on new challenges in the tech world!
   </p>
 
   <br>
