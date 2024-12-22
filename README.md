@@ -9,6 +9,13 @@
 
   <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,docker,djnago,py,react,tailwind,styledcomponents" />
+  </a>
+</p>
+
+
   [![abouassi's 42 stats](https://badge.mediaplus.ma/binary/abouassi)](https://github.com/oakoudad/badge42)
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/orcacode)
